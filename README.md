@@ -1,4 +1,4 @@
 - 👋 Hi, I’m SIDA
-- 👀 web development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning:
 • 💻 Front-End : 🅱️Back-End
